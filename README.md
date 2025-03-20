@@ -23,8 +23,6 @@ DrackEye - C2 'Command and Controle' + Stealer in one , Telegram as Server
 ![image](https://github.com/Mede1x/DrackEye/assets/112403755/cc369fc1-cf8b-4380-8b0e-915e107a45cf)
 ![image](https://github.com/Mede1x/DrackEye/assets/112403755/6604dd2c-1063-4154-acab-f8a85fd6b44d)
 
-## How i Can Buy it
-
 contact Me Here :
 
 telegram : [@Meed_MH](https://t.me/old_Meed)
@@ -32,4 +30,4 @@ Facebook : [Meed_MH](https://web.facebook.com/hack.meplz)
 
 ## Warning
 
-i sell it for testing and ethical use 😃
+it for testing and For security purposes only
